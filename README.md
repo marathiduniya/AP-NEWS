@@ -1,2 +1,2 @@
 # AP-NEWS
-AP news for all persons news
+initial our website for news
